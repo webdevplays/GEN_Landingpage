@@ -495,7 +495,7 @@
                     duration: 0.75,
                     delay: 250,
                     children: (0, t.jsx)(m.A, {
-                      url: "https://discord.gg/clashofcoins",
+                      url: "",
                       children: (0, t.jsxs)(t.Fragment, {
                         children: [
                           (0, t.jsx)("span", { children: "JOIN COMMUNITY" }),
@@ -830,7 +830,7 @@
                     animateIn: "zoomIn",
                     delay: 375,
                     children: (0, t.jsx)(m.A, {
-                      url: "https://docs.clashofcoins.com/",
+                      url: "",
                       children: (0, t.jsx)("span", { children: "THE DOCS" }),
                     }),
                   }),
