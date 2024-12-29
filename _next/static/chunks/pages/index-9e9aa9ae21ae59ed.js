@@ -163,7 +163,7 @@
                       animateIn: "fadeInUp",
                       duration: 0.75,
                       children: (0, t.jsx)("h2", {
-                        children: "PLAY. VIBE. OWN.",
+                        children: "ABOUT GEN AI",
                       }),
                     }),
                     (0, t.jsx)(c(), {
@@ -173,7 +173,7 @@
                       delay: 125,
                       children: (0, t.jsx)("p", {
                         children:
-                          "GEN AI is a dynamic MMORPG from game veterans with over 10 years of experience. Fight for your share of the Open Economy in a battlefield influenced by players' actions and strategies.",
+                          "GEN AI (Generation AI) project is an initiatives and efforts focused on harnessing the power of generative artificial intelligence to drive innovation and create cutting-edge solutions. These projects aim to develop and apply AI technologies that can generate new, unique content, and revolutionize cyber security system, all by leveraging advanced machine learning algorithms, data, and computational power.",
                       }),
                     }),
                     (0, t.jsx)(c(), {
@@ -184,7 +184,7 @@
                       children: (0, t.jsx)("p", {
                         className: "orange",
                         children:
-                          "THE NEXT CHAPTER IN WEB3 GAMING FOR BILLIONS",
+                          "WORLD OF AI",
                       }),
                     }),
                   ],
@@ -577,7 +577,7 @@
                                 delay: 125,
                                 children: (0, t.jsx)("p", {
                                   children:
-                                    "The game is designed with a simple entry point, allowing new players to jump in quickly and understand the basics of gameplay without heavy crypto bullshit.",
+                                    "The game is designed with a simple entry point, allowing new players to jump in quickly and understand the basics of GEN AI without heavy crypto bullshit.",
                                 }),
                               }),
                             ],
@@ -621,7 +621,7 @@
                                 delay: 125,
                                 children: (0, t.jsx)("p", {
                                   children:
-                                    "The game world evolves based on player actions, making each session unique and encouraging players to adapt their strategies.",
+                                    "The Gen Ai world fill of advance machine, simple and unique interface selecting a character.",
                                 }),
                               }),
                             ],
@@ -665,7 +665,7 @@
                                 delay: 125,
                                 children: (0, t.jsx)("p", {
                                   children:
-                                    "Players compete to secure and hold territories, making strategic decisions to defend their assets and expand their reach.",
+                                    "Drive & initiate the command of an Ai code.",
                                 }),
                               }),
                             ],
