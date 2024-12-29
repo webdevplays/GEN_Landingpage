@@ -221,7 +221,7 @@
                       (0, t.jsx)(u.A, {}),
                       (0, t.jsx)("video", {
                         loop: !0,
-                        src: "bg.mp4",
+                        src: "trail.mp4",
                         ref: e,
                       }),
                       (0, t.jsx)("button", {
