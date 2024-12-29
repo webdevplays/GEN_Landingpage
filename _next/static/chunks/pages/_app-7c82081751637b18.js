@@ -387,7 +387,8 @@
         privacy: "/#privacy",
         branding: "/#branding",
         play: "/#play",
-        treasury: "https://dexscreener.com/",
+        treasury: "https://dexscreener.com/solana/0x00000000000",
+        demos: "https://app.gen-ai.website/",
       };
     },
     1896: (e, t, r) => {
@@ -2040,14 +2041,9 @@
                             onClick: () => a("owb"),
                             target: "_blank",
                             rel: "noreferrer",
-                            children: "$GENAI",
+                            children: "$GEN",
                           }),
-                          (0, n.jsx)("a", {
-                            onClick: () => a("economy"),
-                            target: "_blank",
-                            rel: "noreferrer",
-                            children: "ECONOMY",
-                          }),
+                          
                         ],
                       }),
                       (0, n.jsxs)("div", {
@@ -2066,7 +2062,7 @@
                                     u.slice(0, u.endsWith("=") ? -1 : void 0)
                                   ),
                                 children: (0, n.jsx)("span", {
-                                  children: "treasury",
+                                  children: "BUY $GEN",
                                 }),
                               })
                             : (0, n.jsx)(b, {
@@ -2119,14 +2115,9 @@
                             onClick: () => a("owb"),
                             target: "_blank",
                             rel: "noreferrer",
-                            children: "$GENAI",
+                            children: "$GEN",
                           }),
-                          (0, n.jsx)("a", {
-                            onClick: () => a("economy"),
-                            target: "_blank",
-                            rel: "noreferrer",
-                            children: "ECONOMY",
-                          }),
+                          
                         ],
                       }),
                       (0, n.jsxs)("div", {

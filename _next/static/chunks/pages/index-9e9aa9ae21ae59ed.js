@@ -66,7 +66,7 @@
                             corners: !0,
                             animation: !0,
                             url: ""
-                              .concat(i ? g.J.play : g.J.treasury)
+                              .concat(i ? g.J.play : g.J.demos)
                               .concat(n ? "?" : "")
                               .concat(
                                 n.slice(0, n.endsWith("=") ? -1 : void 0)
@@ -82,7 +82,7 @@
                             orange: !0,
                             corners: !0,
                             animation: !0,
-                            url: ""
+                            url: " "
                               .concat(g.J.treasury)
                               .concat(n ? "?" : "")
                               .concat(
@@ -728,7 +728,7 @@
                         animateOnce: !0,
                         duration: 0.75,
                         animateIn: "fadeInUp",
-                        children: (0, t.jsx)("h2", { children: "$GENAI" }),
+                        children: (0, t.jsx)("h2", { children: "$GEN" }),
                       }),
                       (0, t.jsxs)(c(), {
                         animateOnce: !0,
