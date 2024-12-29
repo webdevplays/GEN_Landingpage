@@ -1915,7 +1915,7 @@
         f = () =>
           (0, n.jsx)("a", {
             className: l().social,
-            href: "https://x.com/#",
+            href: "https://x.com/Gen_Ai25",
             target: "_blank",
             rel: "noreferrer",
             children: (0, n.jsx)("svg", {
