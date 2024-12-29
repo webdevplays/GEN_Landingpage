@@ -387,7 +387,7 @@
         privacy: "/#privacy",
         branding: "/#branding",
         play: "/#play",
-        treasury: "/#treasury",
+        treasury: "https://dexscreener.com/",
       };
     },
     1896: (e, t, r) => {
@@ -2152,7 +2152,7 @@
                                   ),
                                 className: " ".concat(h().treasuryBttn),
                                 children: (0, n.jsx)("span", {
-                                  children: "treasury",
+                                  children: "BUY $GEN",
                                 }),
                               })
                             : (0, n.jsx)(b, {
@@ -2195,7 +2195,7 @@
                     className: ""
                       .concat(h().mobileBttn, " ")
                       .concat(t ? h().mobileBttnNone : ""),
-                    children: (0, n.jsx)("span", { children: "treasury" }),
+                    children: (0, n.jsx)("span", { children: "BUY $GEN" }),
                   }),
                 ],
               }),

@@ -74,7 +74,7 @@
                             children: (0, t.jsx)("span", {
                               className: h().playSpan,
                               children: (0, t.jsx)("span", {
-                                children: "Play",
+                                children: "GEN AI DEMO",
                               }),
                             }),
                           })
