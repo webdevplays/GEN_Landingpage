@@ -495,7 +495,7 @@
                     duration: 0.75,
                     delay: 250,
                     children: (0, t.jsx)(m.A, {
-                      url: "https://t.me/",
+                      url: "https://x.com/Gen_Ai25",
                       children: (0, t.jsxs)(t.Fragment, {
                         children: [
                           (0, t.jsx)("span", { children: "JOIN COMMUNITY" }),
