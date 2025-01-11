@@ -296,7 +296,7 @@
                         (0, t.jsx)(u.A, { stroke: "#aaa" }),
                         (0, t.jsx)("span", {
                           className: O().className,
-                          children: "key partners",
+                          children: "Powered by innovative solutions from leading AI pioneers worldwide",
                         }),
                       ],
                     }),
