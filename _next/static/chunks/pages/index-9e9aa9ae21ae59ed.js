@@ -728,7 +728,7 @@
                         animateOnce: !0,
                         duration: 0.75,
                         animateIn: "fadeInUp",
-                        children: (0, t.jsx)("h2", { children: "$GEN" }),
+                        children: (0, t.jsx)("h2", { children: "$GENE" }),
                       }),
                       (0, t.jsxs)(c(), {
                         animateOnce: !0,

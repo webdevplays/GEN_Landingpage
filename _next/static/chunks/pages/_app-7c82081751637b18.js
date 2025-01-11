@@ -2041,7 +2041,7 @@
                             onClick: () => a("owb"),
                             target: "_blank",
                             rel: "noreferrer",
-                            children: "$GEN",
+                            children: "$GENE",
                           }),
                           
                         ],
@@ -2062,7 +2062,7 @@
                                     u.slice(0, u.endsWith("=") ? -1 : void 0)
                                   ),
                                 children: (0, n.jsx)("span", {
-                                  children: "BUY $GEN",
+                                  children: "BUY $GENE",
                                 }),
                               })
                             : (0, n.jsx)(b, {
@@ -2115,7 +2115,7 @@
                             onClick: () => a("owb"),
                             target: "_blank",
                             rel: "noreferrer",
-                            children: "$GEN",
+                            children: "$GENE",
                           }),
                           
                         ],
@@ -2143,7 +2143,7 @@
                                   ),
                                 className: " ".concat(h().treasuryBttn),
                                 children: (0, n.jsx)("span", {
-                                  children: "BUY $GEN",
+                                  children: "BUY $GENE",
                                 }),
                               })
                             : (0, n.jsx)(b, {
@@ -2186,7 +2186,7 @@
                     className: ""
                       .concat(h().mobileBttn, " ")
                       .concat(t ? h().mobileBttnNone : ""),
-                    children: (0, n.jsx)("span", { children: "BUY $GEN" }),
+                    children: (0, n.jsx)("span", { children: "BUY $GENE" }),
                   }),
                 ],
               }),
