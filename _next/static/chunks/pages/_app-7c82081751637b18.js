@@ -2041,7 +2041,7 @@
                             onClick: () => a("owb"),
                             target: "_blank",
                             rel: "noreferrer",
-                            children: "$GENE",
+                            children: "$gene",
                           }),
                           
                         ],
@@ -2062,7 +2062,7 @@
                                     u.slice(0, u.endsWith("=") ? -1 : void 0)
                                   ),
                                 children: (0, n.jsx)("span", {
-                                  children: "BUY $GENE",
+                                  children: "BUY $gene",
                                 }),
                               })
                             : (0, n.jsx)(b, {
@@ -2115,7 +2115,7 @@
                             onClick: () => a("owb"),
                             target: "_blank",
                             rel: "noreferrer",
-                            children: "$GENE",
+                            children: "$gene",
                           }),
                           
                         ],
@@ -2143,7 +2143,7 @@
                                   ),
                                 className: " ".concat(h().treasuryBttn),
                                 children: (0, n.jsx)("span", {
-                                  children: "BUY $GENE",
+                                  children: "BUY $gene",
                                 }),
                               })
                             : (0, n.jsx)(b, {
@@ -2186,7 +2186,7 @@
                     className: ""
                       .concat(h().mobileBttn, " ")
                       .concat(t ? h().mobileBttnNone : ""),
-                    children: (0, n.jsx)("span", { children: "BUY $GENE" }),
+                    children: (0, n.jsx)("span", { children: "BUY $gene" }),
                   }),
                 ],
               }),
@@ -2363,7 +2363,7 @@
                             children: [
                               (0, n.jsx)("div", {
                                 className: L().copyright,
-                                children: "GENE AI STUDIO 2024 \xa9",
+                                children: "gene studio 2024 \xa9",
                               }),
                               (0, n.jsxs)("nav", {
                                 children: [
@@ -2387,9 +2387,9 @@
                                   "developed by",
                                   " ",
                                   (0, n.jsx)("a", {
-                                    href: "GENE AI",
+                                    href: "gene",
                                     target: "_blank",
-                                    children: "GENE",
+                                    children: "gene",
                                   }),
                                 ],
                               }),
@@ -2425,7 +2425,7 @@
                       }),
                       (0, n.jsx)("div", {
                         className: L().brandCopyright,
-                        children: "GENE AI STUDIO 2024 \xa9",
+                        children: "gene studio 2024 \xa9",
                       }),
                     ],
                   }),
