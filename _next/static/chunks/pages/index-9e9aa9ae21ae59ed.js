@@ -311,56 +311,6 @@
                           play: e,
                           className: E().marquee,
                           children: [
-                            (0, t.jsx)("div", {
-                              className: E().item,
-                              children: (0, t.jsx)(y(), {
-                                src: "/v3v.svg",
-                                width: 91,
-                                height: 32,
-                                alt: "v3v",
-                                title: "v3v",
-                              }),
-                            }),
-                            (0, t.jsx)("div", {
-                              className: E().item,
-                              children: (0, t.jsx)(y(), {
-                                src: "/nethermind.svg",
-                                width: 212,
-                                height: 32,
-                                alt: "Nethermind",
-                                title: "Nethermind",
-                              }),
-                            }),
-                            (0, t.jsx)("div", {
-                              className: E().item,
-                              children: (0, t.jsx)(y(), {
-                                src: "/base.svg",
-                                width: 99,
-                                height: 32,
-                                alt: "Base",
-                                title: "Base",
-                              }),
-                            }),
-                            (0, t.jsx)("div", {
-                              className: E().item,
-                              children: (0, t.jsx)(y(), {
-                                src: "/trustwallet.svg",
-                                width: 196,
-                                height: 32,
-                                alt: "Trustwallet",
-                                title: "Trustwallet",
-                              }),
-                            }),
-                            (0, t.jsx)("div", {
-                              className: E().item,
-                              children: (0, t.jsx)(y(), {
-                                src: "/moonpay.svg",
-                                width: 144,
-                                height: 32,
-                                alt: "Moonpay",
-                                title: "Moonpay",
-                              }),
-                            }),
                           ],
                         }),
                         (0, t.jsxs)(w.A, {
@@ -372,27 +322,7 @@
                             (0, t.jsx)("div", {
                               className: E().item,
                               children: (0, t.jsx)(y(), {
-                                src: "/privy.svg",
-                                width: 110,
-                                height: 32,
-                                alt: "Privy",
-                                title: "Privy",
-                              }),
-                            }),
-                            (0, t.jsx)("div", {
-                              className: E().item,
-                              children: (0, t.jsx)(y(), {
-                                src: "/oxario.svg",
-                                width: 149,
-                                height: 32,
-                                alt: "Oxario",
-                                title: "Oxario",
-                              }),
-                            }),
-                            (0, t.jsx)("div", {
-                              className: E().item,
-                              children: (0, t.jsx)(y(), {
-                                src: "/ax1.svg",
+                                src: "/sponsor/OpenAI_Logo.svg.png",
                                 width: 74,
                                 height: 32,
                                 alt: "AX1",
@@ -402,7 +332,7 @@
                             (0, t.jsx)("div", {
                               className: E().item,
                               children: (0, t.jsx)(y(), {
-                                src: "/logo.png",
+                                src: "/sponsor/nvidia.png",
                                 width: 49,
                                 height: 32,
                                 alt: "Logo",
@@ -412,7 +342,7 @@
                             (0, t.jsx)("div", {
                               className: E().item,
                               children: (0, t.jsx)(y(), {
-                                src: "/orion.svg",
+                                src: "/sponsor/hf-logo-with-title.png",
                                 width: 97,
                                 height: 32,
                                 alt: "Orion Systematic",
@@ -422,7 +352,7 @@
                             (0, t.jsx)("div", {
                               className: E().item,
                               children: (0, t.jsx)(y(), {
-                                src: "/angels.svg",
+                                src: "/sponsor/Google_Gemini_logo.svg.png",
                                 width: 134,
                                 height: 32,
                                 alt: "Angels 30+",
