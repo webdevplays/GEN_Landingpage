@@ -2387,9 +2387,9 @@
                                   "developed by",
                                   " ",
                                   (0, n.jsx)("a", {
-                                    href: "GENAI",
+                                    href: "GENE AI",
                                     target: "_blank",
-                                    children: "GEN",
+                                    children: "GENE",
                                   }),
                                 ],
                               }),
