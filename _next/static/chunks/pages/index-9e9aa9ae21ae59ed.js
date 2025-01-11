@@ -74,7 +74,7 @@
                             children: (0, t.jsx)("span", {
                               className: h().playSpan,
                               children: (0, t.jsx)("span", {
-                                children: "GEN AI DEMO",
+                                children: "GENE AI DEMO",
                               }),
                             }),
                           })
@@ -163,7 +163,7 @@
                       animateIn: "fadeInUp",
                       duration: 0.75,
                       children: (0, t.jsx)("h2", {
-                        children: "ABOUT GEN AI",
+                        children: "ABOUT GENE AI",
                       }),
                     }),
                     (0, t.jsx)(c(), {
@@ -173,7 +173,7 @@
                       delay: 125,
                       children: (0, t.jsx)("p", {
                         children:
-                          "GEN AI (Generation AI) project is an initiatives and efforts focused on harnessing the power of generative artificial intelligence to drive innovation and create cutting-edge solutions. These projects aim to develop and apply AI technologies that can generate new, unique content, and revolutionize cyber security system, all by leveraging advanced machine learning algorithms, data, and computational power.",
+                          "GENE AI (Generation AI) project is an initiatives and efforts focused on harnessing the power of generative artificial intelligence to drive innovation and create cutting-edge solutions. These projects aim to develop and apply AI technologies that can generate new, unique content, and revolutionize cyber security system, all by leveraging advanced machine learning algorithms, data, and computational power.",
                       }),
                     }),
                     (0, t.jsx)(c(), {
@@ -577,7 +577,7 @@
                                 delay: 125,
                                 children: (0, t.jsx)("p", {
                                   children:
-                                    "The game is designed with a simple entry point, allowing new players to jump in quickly and understand the basics of GEN AI without heavy crypto bullshit.",
+                                    "The game is designed with a simple entry point, allowing new players to jump in quickly and understand the basics of GENE AI without heavy crypto bullshit.",
                                 }),
                               }),
                             ],
@@ -621,7 +621,7 @@
                                 delay: 125,
                                 children: (0, t.jsx)("p", {
                                   children:
-                                    "The Gen Ai world fill of advance machine, simple and unique interface selecting a character.",
+                                    "The Gene Ai world fill of advance machine, simple and unique interface selecting a character.",
                                 }),
                               }),
                             ],
@@ -868,24 +868,24 @@
             children: [
               (0, t.jsxs)(r(), {
                 children: [
-                  (0, t.jsx)("title", { children: "GEN AI" }),
+                  (0, t.jsx)("title", { children: "GENE AI" }),
                   (0, t.jsx)("meta", {
                     name: "description",
                     content:
-                      "GEN AI - dynamic MMORPG. Conquer the planet, rule the world.",
+                      "GENE AI - dynamic MMORPG. Conquer the planet, rule the world.",
                   }),
                   (0, t.jsx)("meta", {
                     property: "og:title",
-                    content: "GEN AI",
+                    content: "GENE AI",
                   }),
                   (0, t.jsx)("meta", {
                     property: "og:description",
                     content:
-                      "GEN AI - dynamic MMORPG. Conquer the planet, rule the world.",
+                      "GENE AI - dynamic MMORPG. Conquer the planet, rule the world.",
                   }),
                   (0, t.jsx)("meta", {
                     property: "og:title",
-                    content: "GEN AI",
+                    content: "GENE AI",
                   }),
                   (0, t.jsx)("meta", {
                     property: "og:locale",
@@ -910,7 +910,7 @@
                   (0, t.jsx)("meta", { property: "og:url", content: e }),
                   (0, t.jsx)("meta", {
                     property: "og:site_name",
-                    content: "GEN AI",
+                    content: "GENE AI",
                   }),
                   (0, t.jsx)("meta", {
                     property: "article:modified_time",
@@ -926,7 +926,7 @@
                   }),
                   (0, t.jsx)("meta", {
                     name: "twitter:title",
-                    content: "GEN AI",
+                    content: "GENE AI",
                   }),
                 ],
               }),

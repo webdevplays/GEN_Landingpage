@@ -2363,7 +2363,7 @@
                             children: [
                               (0, n.jsx)("div", {
                                 className: L().copyright,
-                                children: "GEN AI STUDIO 2024 \xa9",
+                                children: "GENE AI STUDIO 2024 \xa9",
                               }),
                               (0, n.jsxs)("nav", {
                                 children: [
@@ -2425,7 +2425,7 @@
                       }),
                       (0, n.jsx)("div", {
                         className: L().brandCopyright,
-                        children: "GEN AI STUDIO 2024 \xa9",
+                        children: "GENE AI STUDIO 2024 \xa9",
                       }),
                     ],
                   }),
