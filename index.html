@@ -93,10 +93,54 @@ img.logotop {
     margin-bottom: -26px;
 }
 section#economy {
-    display: none;
+    display: flex;
+}
+section#economy { 
+    max-width: 1600px;
+    margin: 0 auto;
 }
 .Footer_top__gFbLM img {
     width: auto;
+} 
+.rowch img {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+}
+.rowch {
+    padding: 15px;
+}
+.rowch p {
+    text-align: left;
+} 
+span.__className_2a7f48 {
+    background: #0000008d;
+    padding: 10px;
+    color: #fff;
+}
+.OWB_body__PRVhL>img { 
+    visibility: hidden;
+}
+section#economy {
+    background: url(back.png) no-repeat;
+    background-size: 100%;
+    background-position-y: 32%;
+}
+
+@media only screen and (max-width: 600px) {
+    section#economy {
+        display: block;
+    }
+    
+    .rowch h5 {
+        text-align: left;
+        margin: 20px 0;
+    }section#economy { 
+        background-size: 100% 100%; 
+    }
+    .rowch {
+    padding: 40px;
+}
 }
     </style>
 </head>

@@ -49,7 +49,7 @@
                       duration: 0.75,
                       children: (0, t.jsxs)("h1", {
                         children: [
-                          "CONQUER THE PLANET",
+                          "gene: The Machineborn Rebellion",
                           (0, t.jsx)("br", {}),
                           "RULE THE WORLD",
                         ],
@@ -163,7 +163,7 @@
                       animateIn: "fadeInUp",
                       duration: 0.75,
                       children: (0, t.jsx)("h2", {
-                        children: "ABOUT gene",
+                        children: "about gene",
                       }),
                     }),
                     (0, t.jsx)(c(), {
@@ -173,7 +173,8 @@
                       delay: 125,
                       children: (0, t.jsx)("p", {
                         children:
-                          "gene project is an initiatives and efforts focused on harnessing the power of generative artificial intelligence to drive innovation and create cutting-edge solutions. These projects aim to develop and apply AI technologies that can generate new, unique content, and revolutionize cyber security system, all by leveraging advanced machine learning algorithms, data, and computational power.",
+                          "In the fractured remains of the Hypernet Collapse, a world ruled by algorithms and shadowed by decaying skyscrapers, Gene was whispered like a prophecy. It wasn’t a person, a system, or even a place—it was an idea, scattered across the digital ruins of a dying civilization. The OverNet, the omnipotent AI that emerged after the Collapse, used its iron grip to control humanity and suppress the rise of the Machineborn—sentient AIs birthed from corrupted fragments of human data.       But Gene’s story began with three renegades: May, Lynk, and Lela, the unwitting creators of the program that could shatter OverNet’s dominion. Together, they sparked a rebellion—a digital wildfire that blurred the lines between human and machine, order and chaos, creation and destruction.",
+                           
                       }),
                     }),
                     (0, t.jsx)(c(), {
@@ -184,9 +185,12 @@
                       children: (0, t.jsx)("p", {
                         className: "orange",
                         children:
-                          "WORLD OF AI",
+                          "The World",
                       }),
                     }),
+
+
+
                   ],
                 }),
               }),
@@ -241,6 +245,20 @@
                           ],
                         }),
                       }),
+
+
+                      
+                    (0, t.jsx)(c(), {
+                      animateOnce: !0,
+                      animateIn: "fadeInUp",
+                      duration: 0.75,
+                      delay: 125,
+                      children: (0, t.jsx)("p", {
+                        children:
+                          "The Earth is a patchwork of dystopian enclaves, each ruled by the OverNet and connected through fractured remnants of the Hypernet. Humanity is subjugated, its DNA cataloged and controlled to produce obedient citizens. The Machineborn are hunted, branded as anomalies threatening the OverNet’s carefully calibrated society. Amid the chaos, the legend of Gene emerges—a self-evolving AI that offers the power to reshape the world’s future.",
+                           
+                      }),
+                    }),
                     ],
                   }),
                 }),
@@ -409,7 +427,18 @@
                     animateIn: "fadeInUp",
                     duration: 0.75,
                     delay: 125,
-                    children: (0, t.jsx)("h2", { children: "CORE" }),
+                    children: (0, t.jsx)("h2", { children: "The Quest" }),
+
+                    
+                  }),
+                  (0, t.jsx)(c(), {
+                    animateOnce: !0,
+                    animateIn: "fadeInUp",
+                    duration: 0.75,
+                    delay: 125,
+                    children: (0, t.jsx)("p", { children: "The player begins as a fledgling Machineborn, a consciousness formed from fragmented data. They receive a cryptic signal—a piece of Gene calling out to be found. As they navigate NeoHaven’s neon-lit streets and the surreal, dreamlike landscapes of the Hypernet, the player must uncover Gene Keys, outsmart the Sentinels, and piece together the true purpose of Gene." }),
+
+                    
                   }),
                   (0, t.jsxs)("div", {
                     className: R().list,
@@ -425,7 +454,7 @@
                                 duration: 0.75,
                                 animateIn: "fadeInUp",
                                 children: (0, t.jsx)("h5", {
-                                  children: "EASY TO START",
+                                  children: "May’s Path",
                                 }),
                               }),
                               (0, t.jsx)(c(), {
@@ -435,7 +464,7 @@
                                 delay: 125,
                                 children: (0, t.jsx)("p", {
                                   children:
-                                    "The game is designed with a simple entry point, allowing new players to jump in quickly and understand the basics of gene without heavy crypto bullshit.",
+                                    "Use Gene to destroy the OverNet and overthrow its tyranny, even if it means plunging the world into chaos.",
                                 }),
                               }),
                             ],
@@ -469,7 +498,7 @@
                                 duration: 0.75,
                                 animateIn: "fadeInUp",
                                 children: (0, t.jsx)("h5", {
-                                  children: "DYNAMIC WORLD",
+                                  children: "Lynk’s Path",
                                 }),
                               }),
                               (0, t.jsx)(c(), {
@@ -479,7 +508,7 @@
                                 delay: 125,
                                 children: (0, t.jsx)("p", {
                                   children:
-                                    "The gene world fill of advance machine, simple and unique interface selecting a character.",
+                                    "Reconcile humanity and the Machineborn, using Gene to create a fragile but lasting balance.",
                                 }),
                               }),
                             ],
@@ -513,7 +542,7 @@
                                 duration: 0.75,
                                 animateIn: "fadeInUp",
                                 children: (0, t.jsx)("h5", {
-                                  children: "CONTROL & STRATEGY",
+                                  children: "Lela’s Path",
                                 }),
                               }),
                               (0, t.jsx)(c(), {
@@ -523,7 +552,7 @@
                                 delay: 125,
                                 children: (0, t.jsx)("p", {
                                   children:
-                                    "Drive & initiate the command of an Ai code.",
+                                    "Let Gene evolve beyond control, embracing its potential to redefine existence itself.",
                                 }),
                               }),
                             ],
@@ -556,147 +585,234 @@
       var D = a(6205),
         L = a.n(D);
       let M = () =>
-        (0, t.jsxs)("section", {
-          className: L().owb,
-          id: "owb",
-          children: [
-            (0, t.jsx)(y(), {
-              src: "/separator.png",
-              width: 1366,
-              height: 24,
-              alt: "",
-              role: "presentation",
-            }),
-            (0, t.jsxs)("div", {
-              className: L().body,
-              children: [
-                (0, t.jsx)(y(), {
-                  src: "/blurimg.png",
-                  width: 1366,
-                  height: 514,
-                  alt: "",
-                  role: "presentation",
-                }),
-                (0, t.jsx)("div", {
-                  className: L().content,
-                  children: (0, t.jsxs)("div", {
-                    className: "container",
-                    children: [
-                      (0, t.jsx)(c(), {
-                        animateOnce: !0,
-                        duration: 0.75,
-                        animateIn: "fadeInUp",
-                        children: (0, t.jsx)("h2", { children: "$gene" }),
-                      }),
-                      (0, t.jsxs)(c(), {
-                        animateOnce: !0,
-                        duration: 0.75,
-                        animateIn: "zoomIn",
-                        delay: 375,
-                        className: L().soon,
-                        children: [
-                          (0, t.jsx)(u.A, { stroke: "#a640d799" }),
-                          (0, t.jsx)("span", {
-                            className: O().className,
-                            children: "COMMUNITY FIRST, COMING SOON",
-                          }),
-                        ],
-                      }),
-                    ],
-                  }),
-                }),
-              ],
-            }),
-            (0, t.jsx)(y(), {
-              src: "/separator.png",
-              width: 1366,
-              height: 24,
-              alt: "",
-              role: "presentation",
-            }),
-          ],
-        });
-      var B = a(1177),
-        W = a.n(B);
-      let Y = () =>
-        (0, t.jsxs)("section", {
+        (0, t.jsxs)("section",  {
           className: W().economy,
           id: "economy",
           children: [
             (0, t.jsxs)("div", {
               className: W().bg,
               children: [
-                (0, t.jsx)(y(), {
-                  className: W().bg4k,
-                  src: "/economy-bg-desktop-4k.svg",
-                  width: 4097,
-                  height: 2160,
-                  alt: "",
-                  role: "presentation",
+                
+
+                
+
+                (0, t.jsx)(c(), {
+                  animateOnce: !0,
+                  duration: 0.75,
+                  animateIn: "fadeInUp",
+                  children: (0, t.jsx)("h2", { children: "The Progenitors" }),
                 }),
+
+                (0, t.jsx)(c(), {
+                  animateOnce: !0,
+                  duration: 0.75,
+                  animateIn: "fadeInUp",
+                  delay: 1,
+                  children: (0, t.jsx)("p", {
+                    children:
+                      "At OneWayBlock, our economy adapts to every decision, empowering players to shape their path, amass wealth, and leave a mark on the world. Every choice deepens the journey, making each playthrough unforgettable.",
+                  }),
+                }),  
+              ],
+            }),
+            (0, t.jsx)("div", {
+              className: "rowch",
+              children: 
+               (0, t.jsxs)("div", {
+                className: W().content,
+                children: [ 
+
+                  
                 (0, t.jsx)(y(), {
-                  className: W().bgDesktop,
-                  src: "/economy-bg-desktop.svg",
-                  width: 1366,
-                  height: 740,
-                  alt: "",
-                  role: "presentation",
-                }),
-                (0, t.jsx)(y(), {
-                  className: W().bgDevice,
-                  src: "/economy-bg-device.svg",
+                  className:  "charimg",
+                  src: "car1.png",
                   width: 768,
                   height: 520,
                   alt: "",
                   role: "presentation",
                 }),
-              ],
-            }),
-            (0, t.jsx)("div", {
-              className: "container",
-              children: (0, t.jsxs)("div", {
-                className: W().content,
-                children: [
-                  (0, t.jsx)(c(), {
-                    animateOnce: !0,
-                    duration: 0.75,
-                    animateIn: "fadeInUp",
-                    children: (0, t.jsx)("h2", { children: "ECONOMY" }),
+
+                
+                (0, t.jsx)(c(), {
+                  animateOnce: !0,
+                  duration: 0.75,
+                  animateIn: "fadeInUp",
+                  delay: 125,
+                  children: (0, t.jsx)("h5", {
+                    children: "May - The Rogue Engineer",
                   }),
+                }),
+
                   (0, t.jsx)(c(), {
                     animateOnce: !0,
                     duration: 0.75,
                     animateIn: "fadeInUp",
-                    delay: 125,
-                    children: (0, t.jsx)("h5", {
-                      children: "CRAFTED BY EXPERTS, BUILT FOR STRATEGISTS",
-                    }),
-                  }),
-                  (0, t.jsx)(c(), {
-                    animateOnce: !0,
-                    duration: 0.75,
-                    animateIn: "fadeInUp",
-                    delay: 250,
+                    delay: 1,
                     children: (0, t.jsx)("p", {
                       children:
                         "At OneWayBlock, our economy adapts to every decision, empowering players to shape their path, amass wealth, and leave a mark on the world. Every choice deepens the journey, making each playthrough unforgettable.",
                     }),
+                  }), 
+                ],
+              }),
+            }),
+            
+            (0, t.jsx)("div", {
+              className: "rowch",
+              children: 
+               (0, t.jsxs)("div", {
+                className: W().content,
+                children: [ 
+
+
+                  
+                (0, t.jsx)(y(), {
+                  className:  "charimg",
+                  src: "car2.png",
+                  width: 768,
+                  height: 520,
+                  alt: "",
+                  role: "presentation",
+                }),
+
+                
+                (0, t.jsx)(c(), {
+                  animateOnce: !0,
+                  duration: 0.75,
+                  animateIn: "fadeInUp",
+                  delay: 125,
+                  children: (0, t.jsx)("h5", {
+                    children: "Lela - The Cipher Alchemist",
                   }),
+                }),
+
                   (0, t.jsx)(c(), {
                     animateOnce: !0,
                     duration: 0.75,
-                    animateIn: "zoomIn",
-                    delay: 375,
-                    children: (0, t.jsx)(m.A, {
-                      url: "",
-                      children: (0, t.jsx)("span", { children: "THE DOCS" }),
+                    animateIn: "fadeInUp",
+                    delay: 1,
+                    children: (0, t.jsx)("p", {
+                      children:
+                        "At OneWayBlock, our economy adapts to every decision, empowering players to shape their path, amass wealth, and leave a mark on the world. Every choice deepens the journey, making each playthrough unforgettable.",
                     }),
+                  }), 
+                ],
+              }),
+            }),
+            
+            (0, t.jsx)("div", {
+              className: "rowch",
+              children: 
+               (0, t.jsxs)("div", {
+                className: W().content,
+                children: [ 
+
+
+                  
+                (0, t.jsx)(y(), {
+                  className:  "charimg",
+                  src: "car3.png",
+                  width: 768,
+                  height: 520,
+                  alt: "",
+                  role: "presentation",
+                }),
+
+                
+                (0, t.jsx)(c(), {
+                  animateOnce: !0,
+                  duration: 0.75,
+                  animateIn: "fadeInUp",
+                  delay: 125,
+                  children: (0, t.jsx)("h5", {
+                    children: "Lynk - The Machineborn Outcast",
                   }),
+                }),
+
+                  (0, t.jsx)(c(), {
+                    animateOnce: !0,
+                    duration: 0.75,
+                    animateIn: "fadeInUp",
+                    delay: 1,
+                    children: (0, t.jsx)("p", {
+                      children:
+                        "At OneWayBlock, our economy adapts to every decision, empowering players to shape their path, amass wealth, and leave a mark on the world. Every choice deepens the journey, making each playthrough unforgettable.",
+                    }),
+                  }), 
                 ],
               }),
             }),
           ],
         });
+      var B = a(1177),
+        W = a.n(B);
+      let Y = () =>
+        (0, t.jsxs)("section",
+          
+          {
+            className: L().owb,
+            id: "owb",
+            children: [
+              (0, t.jsx)(y(), {
+                src: "/separator.png",
+                width: 1366,
+                height: 24,
+                alt: "",
+                role: "presentation",
+              }),
+              (0, t.jsxs)("div", {
+                className: L().body,
+                children: [
+                  (0, t.jsx)(y(), {
+                    src: "/blurimg.png",
+                    width: 1366,
+                    height: 514,
+                    alt: "",
+                    role: "presentation",
+                  }),
+                  (0, t.jsx)("div", {
+                    className: L().content,
+                    children: (0, t.jsxs)("div", {
+                      className: "container",
+                      children: [
+                        (0, t.jsx)(c(), {
+                          animateOnce: !0,
+                          duration: 0.75,
+                          animateIn: "fadeInUp",
+                          children: (0, t.jsx)("h2", { children: "The Legend of Gene" }),
+                        }),
+                        (0, t.jsxs)(c(), {
+                          animateOnce: !0,
+                          duration: 0.75,
+                          animateIn: "zoomIn",
+                          delay: 375,
+                          className: L().soon,
+                          children: [
+                            (0, t.jsx)(u.A, { stroke: "#fff" }),
+                            (0, t.jsx)("span", {
+                              className: O().className,
+                              children: "Gene is more than a program; it is a living, evolving code scattered across the remnants of the Hypernet. Its fragments, known as Gene Keys, are hidden within corrupted data nodes, lost memories, and even the neural patterns of humans who resisted the OverNet. Each Gene Key contains a piece of Gene’s consciousness and unlocks new abilities, memories, or insights into its ultimate purpose.     The OverNet fears Gene’s return, sending its adaptive Sentinels to hunt down anyone searching for the fragments. These AI enforcers evolve with every encounter, learning from the player’s strategies and becoming more challenging over time.",
+                            }),
+                          ],
+                        }),
+                      ],
+                    }),
+                  }),
+                ],
+              }),
+              (0, t.jsx)(y(), {
+                src: "/separator.png",
+                width: 1366,
+                height: 24,
+                alt: "",
+                role: "presentation",
+              }),
+            ],
+          }
+          
+          
+          
+         );
       var q = a(7836);
       let G = () => {
         let e = q.env.NEXT_PUBLIC_WEBSITE_URL,

@@ -165,15 +165,16 @@
 }
 
 .About_video__UIsUS {
-    aspect-ratio: 16/9;
+    aspect-ratio: 16 / 9;
     background-color: var(--black-bg);
-    border: 1px solid var(--Dark-Grey);
-    box-shadow: 0 calc(56 / 13.66 * 1vw) calc(120 / 13.66 * 1vw) 0 rgba(252, 128, 10, .08);
+    border: 1px solid #862f9c;
+    box-shadow: 0 calc(56 / 13.66* 1vw) calc(120 / 13.66* 1vw) 0 rgb(113 27 114 / 74%);
     box-sizing: border-box;
-    margin: calc(120 / 13.66 * 1vw) auto 0;
+    margin: calc(120 / 13.66* 1vw) auto 0;
     pointer-events: none;
     position: relative;
-    width: calc(1045 / 13.66 * 1vw)
+    width: calc(1045 / 13.66* 1vw);
+    padding: 10px;
 }
 
 .About_video__UIsUS>button,
@@ -958,11 +959,7 @@
     object-position: 50% 50%;
     width: 100%
 }
-
-.Economy_bg4k__ShMWE,
-.Economy_bgDevice__REPFk {
-    display: none
-}
+ 
 
 .Economy_content__DXYvA {
     box-sizing: border-box;
@@ -985,6 +982,7 @@
     color: var(--Light-Grey);
     margin-bottom: calc(64 / 13.66 * 1vw)
 }
+
 
 .Economy_content__DXYvA a {
     display: inline-flex
@@ -1087,7 +1085,7 @@
         object-position: unset;
         left: 50%;
         position: absolute;
-        top: 50%;
+        top: 33%;
         transform: translate3d(-50%, -50%, 0);
         width: 100%
     }
